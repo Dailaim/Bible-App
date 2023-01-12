@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       {/* <BibleChapter book="Exodo" chapter={10} /> */}
-      <BibleBook book="Genesis" />
+      <BibleBook bookName="Genesis" />
     </>
   )
 }
